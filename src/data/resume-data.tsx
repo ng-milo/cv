@@ -41,7 +41,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/milo-ng-09a721216/",
+        url: "https://www.linkedin.com/in/milo-ng",
         icon: LinkedInIcon,
       },
       // {
